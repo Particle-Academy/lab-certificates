@@ -1,0 +1,10 @@
+{
+    "issued_at": "2026-11-12T04:58:16Z",
+    "kind": "exemption",
+    "lab_commit": "79e2c83145e7d74735375924ad4971f2223fd878",
+    "package": "fancy-ui-plugin",
+    "reason": "Supporting package, not part of the kit: owner exempted it from the lab gate on 2026-11-12 (q_0d12a2ac). Still tracked by every drift watcher.",
+    "revoked": false,
+    "signature": "zCEOZ9q0I2ClGDAlNk6BpBG0Vp/8pqTyVtWTzJPgp/Tg2HT1GTVrvKLj/zRgCzwW4ItK+gu0Wbib4gCksICsDQ==",
+    "v": 1
+}
