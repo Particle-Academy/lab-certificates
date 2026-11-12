@@ -1,0 +1,22 @@
+{
+    "benchmarks": [
+        "human-plus-copilot"
+    ],
+    "commit": "55c9f4e4185ffe815cc12ab11374393564e3b8b2",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-12T06:03:22Z",
+    "known_red": [],
+    "lab_commit": "7bb48f9a93819cd9623bf3cca4707f1ef1e168ad",
+    "package": "agent-integrations",
+    "paid_runs": 0,
+    "signature": "3QVldPUNTLbX0LNGhAXFoiQG4osxng301XZeaLVwNBfGKJIQR/qFDe/kyqkut5UTjprnDUfhyAaAR9T51+45BQ==",
+    "tests": [
+        {
+            "id": "test-71",
+            "result": "pass",
+            "run_id": 274
+        }
+    ],
+    "v": 1,
+    "version": "0.59.0"
+}
