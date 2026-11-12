@@ -1,0 +1,10 @@
+{
+    "issued_at": "2026-11-12T04:57:56Z",
+    "kind": "exemption",
+    "lab_commit": "79e2c83145e7d74735375924ad4971f2223fd878",
+    "package": "fancy-conformance",
+    "reason": "Supporting package, not part of the kit: owner exempted it from the lab gate on 2026-11-12 (q_0d12a2ac). Still tracked by every drift watcher.",
+    "revoked": false,
+    "signature": "sLDg7TE+DDN0XzbiZkJqotLZ6zNcrtAZRsFaiq0YTt0DwLmi/IiC91Px7XgH9MTNR1dPE9UtK1O3ER/+p8heBg==",
+    "v": 1
+}
