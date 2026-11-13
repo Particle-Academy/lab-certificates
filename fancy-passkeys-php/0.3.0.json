@@ -1,0 +1,29 @@
+{
+    "benchmarks": [
+        "passkeys"
+    ],
+    "commit": "1b9c559bb126640f8e5833a309b29cc6cf77cb62",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-13T21:10:16Z",
+    "judged": "full",
+    "known_red": [],
+    "lab_commit": "6d331387a313039b6e18293db984108dad68cec1",
+    "model_lanes": "counted",
+    "package": "fancy-passkeys-php",
+    "paid_runs": 0,
+    "signature": "qpYUzGODj7E6Q9mEitLwD9XI0UUIHGbNc8k7YINGTK01G7KTb2EY9vRSDL9fL7u+EwaRePcFM1q/BO9435zGDA==",
+    "tests": [
+        {
+            "id": "test-79",
+            "result": "pass",
+            "run_id": 598
+        },
+        {
+            "id": "test-80",
+            "result": "pass",
+            "run_id": 599
+        }
+    ],
+    "v": 1,
+    "version": "0.3.0"
+}
