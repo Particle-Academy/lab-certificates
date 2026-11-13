@@ -1,0 +1,112 @@
+{
+    "benchmarks": [
+        "charlotte-full-kit",
+        "human-plus-copilot"
+    ],
+    "commit": "cf8730d879cb8608b9017470037d2dd365414496",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-13T17:06:49Z",
+    "judged": "full",
+    "known_red": [
+        {
+            "finding": "S11",
+            "result": "clean",
+            "run_id": 535,
+            "test": "test-65"
+        }
+    ],
+    "lab_commit": "679cfbcbdecd603ff1d0dbfb5418d0d7c3a21064",
+    "model_lanes": "counted",
+    "package": "react-fancy",
+    "paid_runs": 0,
+    "signature": "JoUMR74m8qtrsi7Ng+AtKI9keFnafDDYVHT7/RhvIcWr/K9IbDH+pumo5yFuvxOwhZIeFMciV/+ZRRkkPjN+Bw==",
+    "tests": [
+        {
+            "id": "test-51",
+            "result": "pass",
+            "run_id": 522
+        },
+        {
+            "id": "test-53",
+            "result": "pass",
+            "run_id": 525
+        },
+        {
+            "id": "test-55",
+            "result": "pass",
+            "run_id": 526
+        },
+        {
+            "id": "test-56",
+            "result": "pass",
+            "run_id": 528
+        },
+        {
+            "id": "test-58",
+            "result": "pass",
+            "run_id": 529
+        },
+        {
+            "id": "test-59",
+            "result": "pass",
+            "run_id": 530
+        },
+        {
+            "id": "test-60",
+            "result": "pass",
+            "run_id": 531
+        },
+        {
+            "id": "test-62",
+            "result": "pass",
+            "run_id": 532
+        },
+        {
+            "id": "test-63",
+            "result": "pass",
+            "run_id": 533
+        },
+        {
+            "id": "test-64",
+            "result": "pass",
+            "run_id": 534
+        },
+        {
+            "id": "test-66",
+            "result": "pass",
+            "run_id": 537
+        },
+        {
+            "id": "test-67",
+            "result": "pass",
+            "run_id": 538
+        },
+        {
+            "id": "test-68",
+            "result": "pass",
+            "run_id": 539
+        },
+        {
+            "id": "test-69",
+            "result": "pass",
+            "run_id": 540
+        },
+        {
+            "id": "test-70",
+            "result": "pass",
+            "run_id": 541
+        },
+        {
+            "id": "test-71",
+            "result": "pass",
+            "run_id": 544
+        },
+        {
+            "id": "test-72",
+            "result": "pass",
+            "run_id": 543
+        }
+    ],
+    "v": 1,
+    "version": "6.24.1"
+}
