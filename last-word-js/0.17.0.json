@@ -1,0 +1,22 @@
+{
+    "benchmarks": [],
+    "commit": "39f1d665d9bfd84ad772fa2204b5498e5fa545cb",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-14T21:22:52Z",
+    "judged": "full",
+    "known_red": [],
+    "lab_commit": "77d280526115a27018fa5a00db4b1d43603e93c5",
+    "model_lanes": "counted",
+    "package": "last-word-js",
+    "paid_runs": 1,
+    "signature": "91uk0WR3K6F+WK3sQ1i8qgB44jUwyPbCmY8uoa5jEjedhYztYvuR6w1k6CpwGCOH/OXR8ELlAaWtefCHAiMCBw==",
+    "tests": [
+        {
+            "id": "test-24",
+            "result": "pass",
+            "run_id": 711
+        }
+    ],
+    "v": 1,
+    "version": "0.17.0"
+}
