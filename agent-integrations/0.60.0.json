@@ -1,0 +1,30 @@
+{
+    "benchmarks": [
+        "cowork",
+        "human-plus-copilot"
+    ],
+    "commit": "43d738ea325c35a0e5622483e18ef89331cc6856",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-14T20:49:52Z",
+    "judged": "full",
+    "known_red": [],
+    "lab_commit": "77d280526115a27018fa5a00db4b1d43603e93c5",
+    "model_lanes": "counted",
+    "package": "agent-integrations",
+    "paid_runs": 0,
+    "signature": "umtiOXjE8b0e6ja+TijwYVYXUgwuNAKsjVSL2t6C6vou5o8mEiGB5qk/V+LfPD0ZtmqIGdZCKhD+narzaxBpAg==",
+    "tests": [
+        {
+            "id": "test-71",
+            "result": "pass",
+            "run_id": 704
+        },
+        {
+            "id": "test-83",
+            "result": "pass",
+            "run_id": 703
+        }
+    ],
+    "v": 1,
+    "version": "0.60.0"
+}
