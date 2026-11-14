@@ -1,0 +1,24 @@
+{
+    "benchmarks": [
+        "cowork"
+    ],
+    "commit": "3212cd5c25d6bac273893495ecb94e5415546324",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-14T20:49:57Z",
+    "judged": "full",
+    "known_red": [],
+    "lab_commit": "77d280526115a27018fa5a00db4b1d43603e93c5",
+    "model_lanes": "counted",
+    "package": "fancy-query",
+    "paid_runs": 0,
+    "signature": "HRUgCDNkWAOev8yc/Tpzr9XhOHdeG4d4PmRcU0t7I/QMQgTXmwCwB7yorc+L2x0GrBAEVmQXGIIumi6pK0+gBw==",
+    "tests": [
+        {
+            "id": "test-83",
+            "result": "pass",
+            "run_id": 703
+        }
+    ],
+    "v": 1,
+    "version": "0.10.0"
+}
