@@ -1,0 +1,10 @@
+{
+    "issued_at": "2026-11-15T19:43:35Z",
+    "kind": "exemption",
+    "lab_commit": "689cf9d77b60c0a85db0512d36d2bef80d93b2a6",
+    "package": "fancy-i18n",
+    "reason": "Owner approved 2026-11-15 (ForceTheQuestion q_8ef976e5, answer msg_a7b96a88) for the 0.1.0 release only, so npm's pending Trusted Publisher validates before it lapses. A zero-cost lab test for fancy-i18n follows; revoke this exemption when it lands.",
+    "revoked": false,
+    "signature": "avEGHzMLsF+ZA9ijiVRc9AuTTlLQDcoMv/FZeneBQ9uad9Hrry2j3ohYH9pBlypyrOiAZGnI0q+NZls23X6kCA==",
+    "v": 1
+}
