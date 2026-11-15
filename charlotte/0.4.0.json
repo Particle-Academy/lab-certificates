@@ -1,0 +1,71 @@
+{
+    "benchmarks": [
+        "charlotte-website"
+    ],
+    "commit": "2f339ef71e66e186bddb8f96215daceb3436f1f9",
+    "ecosystem": "packagist",
+    "excluded_models": [
+        "claude-sonnet-5"
+    ],
+    "issued_at": "2026-11-15T17:07:10Z",
+    "judged": "scored",
+    "judged_ruling": "q_f70eadc9-26a2-4fb1-850d-8a03812e4093",
+    "judged_rulings": [
+        "q_f70eadc9-26a2-4fb1-850d-8a03812e4093"
+    ],
+    "known_red": [],
+    "lab_commit": "75c73b7b274c6e92920a7192815824ea6f6f38a5",
+    "model_lanes": "counted",
+    "package": "charlotte",
+    "paid_runs": 8,
+    "signature": "gCK5UEE/l103uHeK+MUduvPjFzB/x0lAtew8wYDaI62FTS+IDhBZIAIuJ9I+KXuezJkWofO5SpTGToLPmf3sAg==",
+    "tests": [
+        {
+            "id": "test-27",
+            "result": "pass",
+            "run_id": 751
+        },
+        {
+            "id": "test-29",
+            "result": "pass",
+            "run_id": 752
+        },
+        {
+            "id": "test-33",
+            "result": "pass",
+            "run_id": 753
+        },
+        {
+            "id": "test-37",
+            "result": "pass",
+            "run_id": 754
+        },
+        {
+            "id": "test-39",
+            "result": "pass",
+            "run_id": 574
+        },
+        {
+            "id": "test-40",
+            "result": "pass",
+            "run_id": 755
+        },
+        {
+            "id": "test-41",
+            "result": "pass",
+            "run_id": 756
+        },
+        {
+            "id": "test-44",
+            "result": "pass",
+            "run_id": 757
+        },
+        {
+            "id": "test-48",
+            "result": "pass",
+            "run_id": 758
+        }
+    ],
+    "v": 1,
+    "version": "0.4.0"
+}
