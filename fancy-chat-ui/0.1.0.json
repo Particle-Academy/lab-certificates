@@ -2,21 +2,21 @@
     "benchmarks": [
         "agent-chat"
     ],
-    "commit": "4423e5b4fe4492cd4efedb7f0f0c79c4e50bbc69",
+    "commit": "d8b4aa32e39c2303e709d60857e7de080a1327fd",
     "ecosystem": "npm",
-    "issued_at": "2026-11-16T10:48:31Z",
+    "issued_at": "2026-11-16T12:28:56Z",
     "judged": "full",
     "known_red": [],
     "lab_commit": "72f6f35489bfea70daaa95d3964b56a842bc9a42",
     "model_lanes": "counted",
     "package": "fancy-chat-ui",
     "paid_runs": 0,
-    "signature": "jRNPybjdjTrrPSMfSv2uupl/h4zYbbBQGJa7v7RUGWhLyfwQsPAAUiL9FcW4lQtFKhrxAuWLsSHlbYQMbjHcDw==",
+    "signature": "25TVoxtiX8SzLd8Xl6+Jpvoq5tM1X7jq1i6dAaDGh6/z0sMCwjOWXNojJYFpggC89roSQvjSENF+lEcAf2uiDg==",
     "tests": [
         {
             "id": "test-89",
             "result": "pass",
-            "run_id": 880
+            "run_id": 881
         }
     ],
     "v": 1,
