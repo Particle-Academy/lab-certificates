@@ -1,0 +1,24 @@
+{
+    "benchmarks": [
+        "agent-chat"
+    ],
+    "commit": "af838c939191ea072fffb2a6994814a86dde048d",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-16T08:29:30Z",
+    "judged": "full",
+    "known_red": [],
+    "lab_commit": "72f6f35489bfea70daaa95d3964b56a842bc9a42",
+    "model_lanes": "counted",
+    "package": "fancy-chat-prism-php",
+    "paid_runs": 0,
+    "signature": "oaX2JSs29WaKEPHor0qcwTAXvzPFo51oRROlsdYGB6A3DtCnRmfG+iBz/1zXZGBIX+6SF9bYWyRObxhjvk5mAA==",
+    "tests": [
+        {
+            "id": "test-89",
+            "result": "pass",
+            "run_id": 876
+        }
+    ],
+    "v": 1,
+    "version": "0.1.0"
+}
