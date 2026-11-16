@@ -1,0 +1,128 @@
+{
+    "benchmarks": [
+        "charlotte-full-kit",
+        "human-plus-copilot",
+        "passkeys"
+    ],
+    "commit": "36692e72853cea1a915091c1b6d084225f9b51b7",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-16T04:49:26Z",
+    "judged": "full",
+    "known_red": [
+        {
+            "finding": "S11",
+            "result": "clean",
+            "run_id": 797,
+            "test": "test-65"
+        }
+    ],
+    "lab_commit": "77e1b60817036dadb88207fe1cf44f8f8d0f8112",
+    "model_lanes": "counted",
+    "package": "react-fancy",
+    "paid_runs": 0,
+    "signature": "tGHohe0KJ4StPytc9K0KsuG4bPZfmsg42uorWP2iPzv1lUxd5a+zX2GLUesVtuzFhuBsM/hk8z13rv35ekENDw==",
+    "tests": [
+        {
+            "id": "test-51",
+            "result": "pass",
+            "run_id": 786
+        },
+        {
+            "id": "test-53",
+            "result": "pass",
+            "run_id": 787
+        },
+        {
+            "id": "test-55",
+            "result": "pass",
+            "run_id": 788
+        },
+        {
+            "id": "test-56",
+            "result": "pass",
+            "run_id": 789
+        },
+        {
+            "id": "test-58",
+            "result": "pass",
+            "run_id": 790
+        },
+        {
+            "id": "test-59",
+            "result": "pass",
+            "run_id": 791
+        },
+        {
+            "id": "test-60",
+            "result": "pass",
+            "run_id": 793
+        },
+        {
+            "id": "test-62",
+            "result": "pass",
+            "run_id": 794
+        },
+        {
+            "id": "test-63",
+            "result": "pass",
+            "run_id": 795
+        },
+        {
+            "id": "test-64",
+            "result": "pass",
+            "run_id": 796
+        },
+        {
+            "id": "test-66",
+            "result": "pass",
+            "run_id": 798
+        },
+        {
+            "id": "test-67",
+            "result": "pass",
+            "run_id": 799
+        },
+        {
+            "id": "test-68",
+            "result": "pass",
+            "run_id": 800
+        },
+        {
+            "id": "test-69",
+            "result": "pass",
+            "run_id": 801
+        },
+        {
+            "id": "test-70",
+            "result": "pass",
+            "run_id": 802
+        },
+        {
+            "id": "test-71",
+            "result": "pass",
+            "run_id": 803
+        },
+        {
+            "id": "test-72",
+            "result": "pass",
+            "run_id": 804
+        },
+        {
+            "id": "test-79",
+            "result": "pass",
+            "run_id": 805
+        },
+        {
+            "id": "test-80",
+            "result": "pass",
+            "run_id": 806
+        },
+        {
+            "id": "test-81",
+            "result": "pass",
+            "run_id": 807
+        }
+    ],
+    "v": 1,
+    "version": "6.26.1"
+}
