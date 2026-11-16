@@ -1,0 +1,24 @@
+{
+    "benchmarks": [
+        "cowork"
+    ],
+    "commit": "41579712bc92b0b41c4e2bb16c3059a0325c46fa",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-16T06:31:20Z",
+    "judged": "full",
+    "known_red": [],
+    "lab_commit": "68dc93839e5fb76ecd8f82e59a9a467d826c8ad9",
+    "model_lanes": "counted",
+    "package": "fancy-cowork-php",
+    "paid_runs": 0,
+    "signature": "5gZJ72gfeMWaLeuGTFDeaSk89W/g0FXHElZIY54EpfM4ffktv/L7Q5UBQkSe6SDWKoDvqAxJBh7aSUQ1xGZJCA==",
+    "tests": [
+        {
+            "id": "test-87",
+            "result": "pass",
+            "run_id": 843
+        }
+    ],
+    "v": 1,
+    "version": "0.4.2"
+}
