@@ -1,0 +1,22 @@
+{
+    "benchmarks": [],
+    "commit": "186e4fc7e380877fff23fb90d0a6be87a577e88d",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-16T05:31:02Z",
+    "judged": "full",
+    "known_red": [],
+    "lab_commit": "68dc93839e5fb76ecd8f82e59a9a467d826c8ad9",
+    "model_lanes": "counted",
+    "package": "fancy-ui-cli",
+    "paid_runs": 0,
+    "signature": "a753he4KQ2bZhdK86wsmB7SeN1FwqnoiqCf8+5F1Ojz+fRqt/ux5MaBXZM8wvfqiuA2c0fkfsB9biEDhtqWqDg==",
+    "tests": [
+        {
+            "id": "test-90",
+            "result": "pass",
+            "run_id": 813
+        }
+    ],
+    "v": 1,
+    "version": "0.9.1"
+}
