@@ -1,0 +1,22 @@
+{
+    "benchmarks": [],
+    "commit": "ec5253461f10b0a96d23c35692e7ca3bc4ab5df3",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-17T06:28:22Z",
+    "judged": "full",
+    "known_red": [],
+    "lab_commit": "6a17063fecfbc5db14ceb9a76b2b3f58fa8efa32",
+    "model_lanes": "counted",
+    "package": "fancy-fun-lab-js",
+    "paid_runs": 0,
+    "signature": "T8lpE1pGwa62wfCGKmefMkyhinwnA4YCVo44xrK/ZoCkcMhPrcNny0ITO7mkt9uScyECIYU1X1YzdFnPzpAMAw==",
+    "tests": [
+        {
+            "id": "test-92",
+            "result": "pass",
+            "run_id": 1002
+        }
+    ],
+    "v": 1,
+    "version": "0.1.0"
+}
