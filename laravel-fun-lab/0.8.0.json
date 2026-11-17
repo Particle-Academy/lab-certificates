@@ -1,0 +1,22 @@
+{
+    "benchmarks": [],
+    "commit": "f49a33f7f88c4d9af03cf63372d77d0b590ec94f",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-17T05:27:41Z",
+    "judged": "full",
+    "known_red": [],
+    "lab_commit": "d003df12a7386fc49d51ed0e616d5399e9efafed",
+    "model_lanes": "counted",
+    "package": "laravel-fun-lab",
+    "paid_runs": 0,
+    "signature": "cGTUP+bFWXa8QyBtL4qc9r4cpdeX9u+ecrPasB29RWyWrG26BB3Q3GofoP+Y2eO59f2LtwRrTYbMZO0p88vnCw==",
+    "tests": [
+        {
+            "id": "test-91",
+            "result": "pass",
+            "run_id": 980
+        }
+    ],
+    "v": 1,
+    "version": "0.8.0"
+}
