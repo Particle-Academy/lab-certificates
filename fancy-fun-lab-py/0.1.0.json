@@ -1,0 +1,22 @@
+{
+    "benchmarks": [],
+    "commit": "98549975c4efdb5baa8eef801c8b12f77ff1e566",
+    "ecosystem": "pypi",
+    "issued_at": "2026-11-17T06:28:27Z",
+    "judged": "full",
+    "known_red": [],
+    "lab_commit": "6a17063fecfbc5db14ceb9a76b2b3f58fa8efa32",
+    "model_lanes": "counted",
+    "package": "fancy-fun-lab-py",
+    "paid_runs": 0,
+    "signature": "+XxQuLitRgH/GokjlFIs36DXFsMfSKmVwpl1tNXtAu+rL+62XyOx22JT1L9U2aEct8yFtNLkR6u3n2SSgnZKBw==",
+    "tests": [
+        {
+            "id": "test-92",
+            "result": "pass",
+            "run_id": 1002
+        }
+    ],
+    "v": 1,
+    "version": "0.1.0"
+}
