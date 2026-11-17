@@ -1,0 +1,22 @@
+{
+    "benchmarks": [],
+    "commit": "00368d1b2ca0f09a064c6a8eea9cd576b1bb1d4c",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-17T23:31:42Z",
+    "judged": "full",
+    "known_red": [],
+    "lab_commit": "e0639835147ad643c13075062a1a88f2c6f70216",
+    "model_lanes": "counted",
+    "package": "fine-print",
+    "paid_runs": 0,
+    "signature": "75SNX/Jn1TC6hPQu2DE7RN3sks3BLUD550WyhxOaVxbgevcUKl6K2i2XsT3nUEMmtfFx1iBysLrhGKsCxHjRCg==",
+    "tests": [
+        {
+            "id": "test-93",
+            "result": "pass",
+            "run_id": 1009
+        }
+    ],
+    "v": 1,
+    "version": "0.8.0"
+}
