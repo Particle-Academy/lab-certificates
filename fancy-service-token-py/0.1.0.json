@@ -1,0 +1,30 @@
+{
+    "benchmarks": [
+        "sidecar-auth"
+    ],
+    "commit": "289619d4729f4890754603eed7bbecf6fa7c103d",
+    "ecosystem": "pypi",
+    "issued_at": "2026-11-18T17:10:51Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "a62dde481813d46910df421d35448499e11912d6",
+    "model_lanes": "counted",
+    "package": "fancy-service-token-py",
+    "paid_runs": 0,
+    "signature": "6jqS0GJkHfdb0h+wiDxriunacEbo9Fva7x5jyh98RGdmk0jE4nJXxFMm2IjX65ychvFq9Ee3OQ/c+J0kipO9CQ==",
+    "tests": [
+        {
+            "id": "test-73",
+            "result": "pass",
+            "run_id": 1100
+        },
+        {
+            "id": "test-74",
+            "result": "pass",
+            "run_id": 1102
+        }
+    ],
+    "v": 1,
+    "version": "0.1.0"
+}
