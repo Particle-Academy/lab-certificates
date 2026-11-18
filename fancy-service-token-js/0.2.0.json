@@ -1,0 +1,30 @@
+{
+    "benchmarks": [
+        "sidecar-auth"
+    ],
+    "commit": "4a61685c751815207c0a4aac4cd02325e9daa05a",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-18T21:34:42Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "c63249febd73db27f67d0ca5e94fc22164f92362",
+    "model_lanes": "counted",
+    "package": "fancy-service-token-js",
+    "paid_runs": 0,
+    "signature": "4WwNMRIpPd9MdOLuWIYzFTthkqW4+LaZyKbQpx4ugaA4cTgXqd5ogBdqBB0Wqg+Vk3QX0Bt5aJ8yHa4nDX67Cw==",
+    "tests": [
+        {
+            "id": "test-100",
+            "result": "pass",
+            "run_id": 1116
+        },
+        {
+            "id": "test-101",
+            "result": "pass",
+            "run_id": 1117
+        }
+    ],
+    "v": 1,
+    "version": "0.2.0"
+}
