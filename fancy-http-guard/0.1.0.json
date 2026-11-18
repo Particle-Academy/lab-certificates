@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "http-guard"
+    ],
+    "commit": "e77fbe252c5e82b736816c66ab8b5018c4c94bd7",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-18T20:31:42Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "c63249febd73db27f67d0ca5e94fc22164f92362",
+    "model_lanes": "counted",
+    "package": "fancy-http-guard",
+    "paid_runs": 0,
+    "signature": "X07bJePpAU3TLdRCJcO3kWQ+Kty7pACcxnIlTjMlkFA2k8GRjj7AErhyBg0iLdaT8WA1yg+dPOtRha9l+oqDAQ==",
+    "tests": [
+        {
+            "id": "test-99",
+            "result": "pass",
+            "run_id": 1109
+        }
+    ],
+    "v": 1,
+    "version": "0.1.0"
+}
