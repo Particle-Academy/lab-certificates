@@ -1,0 +1,23 @@
+{
+    "benchmarks": [],
+    "commit": "e36b1abbf021d9debde58593ed1fe3131467cd22",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-18T06:38:32Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "679e878d750416c8f84ef7f9a8c1b53ea7a47d29",
+    "model_lanes": "counted",
+    "package": "fancy-pixel",
+    "paid_runs": 0,
+    "signature": "QCN3bCeAQyS1+GCyRRFXXRJktyzQ0caYZowFDLqc2oC3d9J/hgXdzOE4ykzjmTsC07dr4BqbhuuFWK+TM2f9Bg==",
+    "tests": [
+        {
+            "id": "test-97",
+            "result": "pass",
+            "run_id": 1090
+        }
+    ],
+    "v": 1,
+    "version": "0.5.0"
+}
