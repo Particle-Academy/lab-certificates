@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "http-guard"
+    ],
+    "commit": "133b10417e5074b52797ec4ac7d82051cce58a32",
+    "ecosystem": "pypi",
+    "issued_at": "2026-11-18T20:31:49Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "c63249febd73db27f67d0ca5e94fc22164f92362",
+    "model_lanes": "counted",
+    "package": "fancy-http-guard-py",
+    "paid_runs": 0,
+    "signature": "J+g5gGdL1ti4qIN/F649fMpJVqVrv/cPYE/s5UpAM+zOIX4GZp9zd6g0gQDwMXqhgxzGWWeVWiZbd3lGcXn+Dg==",
+    "tests": [
+        {
+            "id": "test-99",
+            "result": "pass",
+            "run_id": 1109
+        }
+    ],
+    "v": 1,
+    "version": "0.1.0"
+}
