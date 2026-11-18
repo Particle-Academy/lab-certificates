@@ -1,0 +1,23 @@
+{
+    "benchmarks": [],
+    "commit": "9f7d48f8c82cbf29058582799a9818ecadd343aa",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-18T02:24:36Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "abf5c90b01a9648e942a588e5abcb61c21b2c41b",
+    "model_lanes": "counted",
+    "package": "fancy-sign-ui",
+    "paid_runs": 0,
+    "signature": "IV7Pw4fcqBTzIT2QoL4kA4EDNMh1/gUevlT2aSz40b5Z5uk1NXVqtJgUjshF5ASOtpWjIc2O7RlWdYpjTjh/BQ==",
+    "tests": [
+        {
+            "id": "test-95",
+            "result": "pass",
+            "run_id": 1011
+        }
+    ],
+    "v": 1,
+    "version": "0.2.0"
+}
