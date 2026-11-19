@@ -1,0 +1,23 @@
+{
+    "benchmarks": [],
+    "commit": "e50c93fe848b0191b0b752ee8803a682e76cd4d3",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-19T18:53:28Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "01d6e48f8d0880a81599f8ca577a77c0ea997330",
+    "model_lanes": "counted",
+    "package": "fancy-heuristics",
+    "paid_runs": 0,
+    "signature": "u0NLpK93h34VGlpYPXHs2/f+X4lRADgDNk5TF3lP7Z++VNmRzNP48+xcYyTEBWxLJSarXKba7OogrLjHgEHSDw==",
+    "tests": [
+        {
+            "id": "test-97",
+            "result": "pass",
+            "run_id": 1143
+        }
+    ],
+    "v": 1,
+    "version": "0.8.0"
+}
