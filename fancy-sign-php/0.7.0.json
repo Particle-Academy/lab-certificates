@@ -1,0 +1,23 @@
+{
+    "benchmarks": [],
+    "commit": "6419b4797af502a38ec925de33497a005d0793be",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-19T21:27:16Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "01d6e48f8d0880a81599f8ca577a77c0ea997330",
+    "model_lanes": "counted",
+    "package": "fancy-sign-php",
+    "paid_runs": 0,
+    "signature": "41d2YbWBjL6IwIFuo6EPxRZxFV9eJGM8admgL99NxCErcdeh6T58QEthaNSBJweILhFXUPqJnm0O55q6shHWCQ==",
+    "tests": [
+        {
+            "id": "test-95",
+            "result": "pass",
+            "run_id": 1171
+        }
+    ],
+    "v": 1,
+    "version": "0.7.0"
+}
