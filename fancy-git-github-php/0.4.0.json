@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "git-adapter-github"
+    ],
+    "commit": "b6245c8654a91717b68f82e3db405db7494df5ad",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-19T08:06:15Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "c4d09f773672cc5923dab8d19abf4131c0aaea1c",
+    "model_lanes": "counted",
+    "package": "fancy-git-github-php",
+    "paid_runs": 0,
+    "signature": "d4BfL00CkO1YHF5dmG1acrV3hQ2lYp7v6Sskubg9U/Qtxz+FyQ1Ap0g73WjLLbbgvRJ/jXrQWi0U91GXJ9v/AQ==",
+    "tests": [
+        {
+            "id": "test-102",
+            "result": "pass",
+            "run_id": 1127
+        }
+    ],
+    "v": 1,
+    "version": "0.4.0"
+}
