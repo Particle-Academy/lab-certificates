@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "git-adapter-github"
+    ],
+    "commit": "7d6c647b4405f5a8280ea4292b93255f0afd91e2",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-19T08:05:52Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "c4d09f773672cc5923dab8d19abf4131c0aaea1c",
+    "model_lanes": "counted",
+    "package": "fancy-git-github-js",
+    "paid_runs": 0,
+    "signature": "vY5LNWotCg57MOiADAKfiNoY/0l4+/sW+Oca01p05x1QZvvORjwhsln5FYT8ZX1KRiHPdqzRdhnZvExPpCX/BA==",
+    "tests": [
+        {
+            "id": "test-102",
+            "result": "pass",
+            "run_id": 1127
+        }
+    ],
+    "v": 1,
+    "version": "0.4.0"
+}
