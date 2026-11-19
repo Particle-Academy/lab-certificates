@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "git-adapter-bitbucket"
+    ],
+    "commit": "6a17670cf893809c569effaeba84299b43fad8ff",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-19T08:12:55Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "c4d09f773672cc5923dab8d19abf4131c0aaea1c",
+    "model_lanes": "counted",
+    "package": "fancy-git-bitbucket-js",
+    "paid_runs": 0,
+    "signature": "+fIJCazkQpIYyYZxNwkEn1c2uVItv9zN0StZj68f3qABuxN62m3OTiAnLlipbekPSc4NEaIpuG6vEYwEJ+0DDw==",
+    "tests": [
+        {
+            "id": "test-104",
+            "result": "pass",
+            "run_id": 1129
+        }
+    ],
+    "v": 1,
+    "version": "0.3.0"
+}
