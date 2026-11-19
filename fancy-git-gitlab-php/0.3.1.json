@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "git-adapter-gitlab"
+    ],
+    "commit": "da4b5834a0ea5653dfce4ccbfd7ffd1480e249bb",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-19T08:10:05Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "c4d09f773672cc5923dab8d19abf4131c0aaea1c",
+    "model_lanes": "counted",
+    "package": "fancy-git-gitlab-php",
+    "paid_runs": 0,
+    "signature": "2m9ABZStWaewy8v5IWQDCGgkVvf3vKxqgN0P0PYcmHqHpkM+C5aJqFUukYc6JXzlZMWiCwkJmDoLaby39VYfAQ==",
+    "tests": [
+        {
+            "id": "test-103",
+            "result": "pass",
+            "run_id": 1128
+        }
+    ],
+    "v": 1,
+    "version": "0.3.1"
+}
