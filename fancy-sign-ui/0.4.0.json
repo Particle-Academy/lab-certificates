@@ -1,21 +1,21 @@
 {
     "benchmarks": [],
-    "commit": "363ce331f804debc0f495ca2c4af78e6c3bfb46e",
+    "commit": "dc9474daece63652269cb23207155b245fbceefd",
     "ecosystem": "npm",
-    "issued_at": "2026-11-19T02:03:37Z",
+    "issued_at": "2026-11-19T03:48:38Z",
     "judged": "full",
     "key_id": "ed25519:d89aa165109da56c",
     "known_red": [],
-    "lab_commit": "eea43f3bceea5f89f81c15ec39a0a7a91785943a",
+    "lab_commit": "88eefcd8401045427a926c73c4afad76568ccc74",
     "model_lanes": "counted",
     "package": "fancy-sign-ui",
     "paid_runs": 0,
-    "signature": "RFggFwHXmLQ/uXfyZTaS5xY9JgXYXLnzIgPn/pHGhlcV2sSrsqc/PuM/qnkBxN62YBiDcfzjyGSeskHebeGgBA==",
+    "signature": "3Tzwx8Le9L791l9ESqZ9YsVljl5tyjeakxiVGBYs81hb2lR76fB/C0j/redZRJQvd67mfEQqkKLJa3b1ClKBBg==",
     "tests": [
         {
             "id": "test-95",
             "result": "pass",
-            "run_id": 1118
+            "run_id": 1119
         }
     ],
     "v": 1,
