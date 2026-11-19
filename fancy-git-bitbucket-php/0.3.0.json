@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "git-adapter-bitbucket"
+    ],
+    "commit": "e4ffa54fb4b4ffbfdd75da53e2f3994c0656d363",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-19T08:13:13Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "c4d09f773672cc5923dab8d19abf4131c0aaea1c",
+    "model_lanes": "counted",
+    "package": "fancy-git-bitbucket-php",
+    "paid_runs": 0,
+    "signature": "Dr/ytaCPkmc1lNN56Q3nlbr80oKCZGZIH3NcFOYdRjWNvbspDdwfhs2BhwIcUSFYxN+8FYQRP6NN8ZS56yo+DA==",
+    "tests": [
+        {
+            "id": "test-104",
+            "result": "pass",
+            "run_id": 1129
+        }
+    ],
+    "v": 1,
+    "version": "0.3.0"
+}
