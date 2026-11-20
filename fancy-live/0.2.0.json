@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "fancy-live"
+    ],
+    "commit": "0e6c7454ab1d17b33c1daf6c9e0bf78cd1589050",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-20T08:48:30Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "bdd7caf06d9e5de7c9a243c80fcc0ee1d7bf37f9",
+    "model_lanes": "counted",
+    "package": "fancy-live",
+    "paid_runs": 0,
+    "signature": "OzUojcW8FWh6FuG7Mf5riHzVOoghQzYX3T2WHNfhH5g4Q21dMZ+5UZ8tIQwIS1Ia/Qyjs3guUdYUcY8GImqnBg==",
+    "tests": [
+        {
+            "id": "test-107",
+            "result": "pass",
+            "run_id": 1236
+        }
+    ],
+    "v": 1,
+    "version": "0.2.0"
+}
