@@ -1,0 +1,38 @@
+{
+    "benchmarks": [],
+    "commit": "e9781df9dc3407d80f34f24245fda51d73d100ed",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-20T05:07:40Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "b199d5b8c25cdafe39eeae6dd885e2ab9c1a0ace",
+    "model_lanes": "counted",
+    "package": "dark-slide",
+    "paid_runs": 4,
+    "signature": "MKng2Tniz5HH3tanTXqNiFx6OvDYbk3zCBKM5lsjHTK0OFHu2OGkI1ieC0m6+wqvdJsCrduldwbTmAWTfYHuBg==",
+    "tests": [
+        {
+            "id": "test-16",
+            "result": "pass",
+            "run_id": 1184
+        },
+        {
+            "id": "test-21",
+            "result": "pass",
+            "run_id": 1185
+        },
+        {
+            "id": "test-22",
+            "result": "pass",
+            "run_id": 1186
+        },
+        {
+            "id": "test-23",
+            "result": "pass",
+            "run_id": 1187
+        }
+    ],
+    "v": 1,
+    "version": "0.23.0"
+}
