@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "laravel-courses"
+    ],
+    "commit": "6b0acb9e0cc52b8be2de0c7370d02bfcabadbd11",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-20T08:37:00Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "bdd7caf06d9e5de7c9a243c80fcc0ee1d7bf37f9",
+    "model_lanes": "counted",
+    "package": "laravel-courses",
+    "paid_runs": 0,
+    "signature": "q0CAZTIbZjyw5RhAF9ECQwqEd9qVjU5UdR66XaWeiBWWOgbt7EU8wd/0CWSGu0VpP8tHJT+hIYT1Cn1CVnNvBg==",
+    "tests": [
+        {
+            "id": "test-109",
+            "result": "pass",
+            "run_id": 1233
+        }
+    ],
+    "v": 1,
+    "version": "0.5.0"
+}
