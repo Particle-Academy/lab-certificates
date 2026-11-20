@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "fancy-seo"
+    ],
+    "commit": "cd949345a04f0bc7eabf80884709978040880efb",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-20T08:40:29Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "bdd7caf06d9e5de7c9a243c80fcc0ee1d7bf37f9",
+    "model_lanes": "counted",
+    "package": "fancy-seo",
+    "paid_runs": 0,
+    "signature": "2LuaN7+f9Wg2NPOcy4ghfmONEM3z2KW/Hx9Jkv1UbFdHF1A/CKAWXdm2MBivFUnGSsqM2d74A9gEfwiciFBiDQ==",
+    "tests": [
+        {
+            "id": "test-108",
+            "result": "pass",
+            "run_id": 1234
+        }
+    ],
+    "v": 1,
+    "version": "0.7.0"
+}
