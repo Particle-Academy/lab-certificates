@@ -1,0 +1,38 @@
+{
+    "benchmarks": [],
+    "commit": "24a1ddba297d96429c9f70c5e72ea0e65017c406",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-20T14:15:30Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "1d3dc756e0cd37796d88dd4d73b09c5c3fccba5e",
+    "model_lanes": "counted",
+    "package": "holy-sheet",
+    "paid_runs": 4,
+    "signature": "O6aEKt+N9UfZZbo28YEqosW9F7iM/c5Lp/NDuZY/c0IaZHeWUyZT7p5SiAptjvUywqu/t6AoR6WxxGw/tQpcDw==",
+    "tests": [
+        {
+            "id": "test-15",
+            "result": "pass",
+            "run_id": 1262
+        },
+        {
+            "id": "test-18",
+            "result": "pass",
+            "run_id": 1263
+        },
+        {
+            "id": "test-19",
+            "result": "pass",
+            "run_id": 1267
+        },
+        {
+            "id": "test-20",
+            "result": "pass",
+            "run_id": 1265
+        }
+    ],
+    "v": 1,
+    "version": "2.15.1"
+}
