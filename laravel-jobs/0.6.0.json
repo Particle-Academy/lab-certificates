@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "laravel-jobs"
+    ],
+    "commit": "e61310b82448f016f15dee51e332ff04afdf848c",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-20T05:40:41Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "b199d5b8c25cdafe39eeae6dd885e2ab9c1a0ace",
+    "model_lanes": "counted",
+    "package": "laravel-jobs",
+    "paid_runs": 0,
+    "signature": "t8WFeSIY6Pi1vW2/YyLjT17WIAAOiRycUyKpH0KOz93hAJgjq0ENcytsxTunswE8lJ+gUsM9Vnfo0yk2JgAMDQ==",
+    "tests": [
+        {
+            "id": "test-105",
+            "result": "pass",
+            "run_id": 1196
+        }
+    ],
+    "v": 1,
+    "version": "0.6.0"
+}
