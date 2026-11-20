@@ -1,0 +1,23 @@
+{
+    "benchmarks": [],
+    "commit": "a88620de78a856ed82d0bd86d17b68921b842fa5",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-20T08:27:31Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "bdd7caf06d9e5de7c9a243c80fcc0ee1d7bf37f9",
+    "model_lanes": "counted",
+    "package": "fancy-connector-core",
+    "paid_runs": 0,
+    "signature": "v4cpfg+FVfKDg2Lu7cQARZb4mqbAPO0v1VwSldUNpI5jtj9pSbmlYUiTy1sZ9V5ji0OaoTOgyufLnz3EbxM+DQ==",
+    "tests": [
+        {
+            "id": "test-111",
+            "result": "pass",
+            "run_id": 1232
+        }
+    ],
+    "v": 1,
+    "version": "0.16.0"
+}
