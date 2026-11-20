@@ -1,0 +1,28 @@
+{
+    "benchmarks": [],
+    "commit": "960b0510261d1cb186f967c204d4ba4619d4f608",
+    "ecosystem": "pypi",
+    "issued_at": "2026-11-20T04:20:29Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "b199d5b8c25cdafe39eeae6dd885e2ab9c1a0ace",
+    "model_lanes": "counted",
+    "package": "holy-sheet-py",
+    "paid_runs": 2,
+    "signature": "Mu8gWrUTOXmBc2iDBnviR6kzvJqPozHQiXALVc76r64G+boXc5hLtPlnExK1q95LrBS/YFG2gHv/81SWh4uEBA==",
+    "tests": [
+        {
+            "id": "test-6",
+            "result": "pass",
+            "run_id": 1182
+        },
+        {
+            "id": "test-18",
+            "result": "pass",
+            "run_id": 1183
+        }
+    ],
+    "v": 1,
+    "version": "0.14.0"
+}
