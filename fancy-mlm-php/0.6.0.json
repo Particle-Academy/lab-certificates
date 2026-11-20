@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "fancy-mlm-php"
+    ],
+    "commit": "5154757c8f8168279d996c8965ecbe5185826035",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-20T08:44:39Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "bdd7caf06d9e5de7c9a243c80fcc0ee1d7bf37f9",
+    "model_lanes": "counted",
+    "package": "fancy-mlm-php",
+    "paid_runs": 0,
+    "signature": "bfR1yRl2VA9j0DTCNQlKYhunbv9LgWV0avLDFPy2Cac9eTm0tosZ0anqKIwzd9bx4KaO9AT51tYOev92emHrDw==",
+    "tests": [
+        {
+            "id": "test-110",
+            "result": "pass",
+            "run_id": 1235
+        }
+    ],
+    "v": 1,
+    "version": "0.6.0"
+}
