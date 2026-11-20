@@ -1,0 +1,28 @@
+{
+    "benchmarks": [],
+    "commit": "0e1a48b0438cdcc678d5f450a82c58ac29407512",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-20T15:03:21Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "f26e507cdfa2cfc18ff7d7a3c3a1213e78425daf",
+    "model_lanes": "counted",
+    "package": "holy-sheet-js",
+    "paid_runs": 2,
+    "signature": "DYteA7Sjei+mFdjrDhjnJqj3UesolDXYNPeO/GNdfOeL/08vSWPOaQwZaxbFfivSU5GW50E96jz1GC7itK6HCA==",
+    "tests": [
+        {
+            "id": "test-6",
+            "result": "pass",
+            "run_id": 1269
+        },
+        {
+            "id": "test-18",
+            "result": "pass",
+            "run_id": 1270
+        }
+    ],
+    "v": 1,
+    "version": "2.15.0"
+}
