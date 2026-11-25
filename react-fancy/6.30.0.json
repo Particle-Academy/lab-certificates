@@ -1,0 +1,151 @@
+{
+    "benchmarks": [
+        "agent-chat",
+        "charlotte-full-kit",
+        "human-plus-copilot",
+        "laravel-jobs",
+        "passkeys"
+    ],
+    "commit": "d80ff907208848fb574b5f73034b08ccc2706152",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-25T08:10:51Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [
+        {
+            "finding": "S11",
+            "result": "clean",
+            "run_id": 1348,
+            "test": "test-65"
+        }
+    ],
+    "lab_commit": "344005746b6e2b1487a425d70e66e2f9656a0cf0",
+    "model_lanes": "counted",
+    "package": "react-fancy",
+    "paid_runs": 0,
+    "signature": "ksCtEGBTq9PWk3tcbeihdTSkh4AMtYOy50874LSwosdtvw7OvJN1xT2prd5K4mgpTUEqtFczTiXwrty7T2KkBQ==",
+    "tests": [
+        {
+            "id": "test-51",
+            "result": "pass",
+            "run_id": 1338
+        },
+        {
+            "id": "test-53",
+            "result": "pass",
+            "run_id": 1339
+        },
+        {
+            "id": "test-55",
+            "result": "pass",
+            "run_id": 1340
+        },
+        {
+            "id": "test-56",
+            "result": "pass",
+            "run_id": 1341
+        },
+        {
+            "id": "test-58",
+            "result": "pass",
+            "run_id": 1342
+        },
+        {
+            "id": "test-59",
+            "result": "pass",
+            "run_id": 1343
+        },
+        {
+            "id": "test-60",
+            "result": "pass",
+            "run_id": 1344
+        },
+        {
+            "id": "test-62",
+            "result": "pass",
+            "run_id": 1345
+        },
+        {
+            "id": "test-63",
+            "result": "pass",
+            "run_id": 1346
+        },
+        {
+            "id": "test-64",
+            "result": "pass",
+            "run_id": 1347
+        },
+        {
+            "id": "test-66",
+            "result": "pass",
+            "run_id": 1349
+        },
+        {
+            "id": "test-67",
+            "result": "pass",
+            "run_id": 1350
+        },
+        {
+            "id": "test-68",
+            "result": "pass",
+            "run_id": 1351
+        },
+        {
+            "id": "test-69",
+            "result": "pass",
+            "run_id": 1352
+        },
+        {
+            "id": "test-70",
+            "result": "pass",
+            "run_id": 1353
+        },
+        {
+            "id": "test-71",
+            "result": "pass",
+            "run_id": 1356
+        },
+        {
+            "id": "test-72",
+            "result": "pass",
+            "run_id": 1354
+        },
+        {
+            "id": "test-79",
+            "result": "pass",
+            "run_id": 1363
+        },
+        {
+            "id": "test-80",
+            "result": "pass",
+            "run_id": 1364
+        },
+        {
+            "id": "test-81",
+            "result": "pass",
+            "run_id": 1355
+        },
+        {
+            "id": "test-89",
+            "result": "pass",
+            "run_id": 1359
+        },
+        {
+            "id": "test-95",
+            "result": "pass",
+            "run_id": 1365
+        },
+        {
+            "id": "test-105",
+            "result": "pass",
+            "run_id": 1361
+        },
+        {
+            "id": "test-113",
+            "result": "pass",
+            "run_id": 1362
+        }
+    ],
+    "v": 1,
+    "version": "6.30.0"
+}
