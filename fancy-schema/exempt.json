@@ -1,0 +1,11 @@
+{
+    "issued_at": "2026-11-25T03:25:48Z",
+    "key_id": "ed25519:d89aa165109da56c",
+    "kind": "exemption",
+    "lab_commit": "344005746b6e2b1487a425d70e66e2f9656a0cf0",
+    "package": "fancy-schema",
+    "reason": "Owner ruling q_f21e5d1f (2026-11-25): a JSON Schema validator with no UI or workflow; verified by its own suite and the shared corpus.",
+    "revoked": false,
+    "signature": "UcNqNqegOoIStVOZ0NwL5j6I5R6LQqZEG8KwPvVNSsFOywAlTUnVSkdAoNVexDVE0oghjNLuRjg21LB65+95AQ==",
+    "v": 1
+}
