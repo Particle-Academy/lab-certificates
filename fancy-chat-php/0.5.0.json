@@ -1,0 +1,25 @@
+{
+    "benchmarks": [
+        "agent-chat"
+    ],
+    "commit": "31dc181abc10b99e85190e08c33a9ab9160996a9",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-25T04:04:39Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "344005746b6e2b1487a425d70e66e2f9656a0cf0",
+    "model_lanes": "counted",
+    "package": "fancy-chat-php",
+    "paid_runs": 0,
+    "signature": "jCeXh+T5YQFiVd23zTLsGDdfA7RF/Cz2FoaXsZ5CuEbnNOG44TEoRyC47eY2jxele+NIOj2zShtfUan8U5kFCw==",
+    "tests": [
+        {
+            "id": "test-89",
+            "result": "pass",
+            "run_id": 1309
+        }
+    ],
+    "v": 1,
+    "version": "0.5.0"
+}
