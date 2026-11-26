@@ -1,0 +1,23 @@
+{
+    "benchmarks": [],
+    "commit": "e721ca7c60eb0b7b3c72bd26c9b95c6bde6fac7c",
+    "ecosystem": "crates",
+    "issued_at": "2026-11-26T00:07:17Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "182ea6678cd0c74f71c7d19dbd944068b8ffd558",
+    "model_lanes": "counted",
+    "package": "fancy-flow-rs",
+    "paid_runs": 1,
+    "signature": "q0KgMcSUnzmSCMwyKnhnKaVgzlupb4d58YHAMBPaXwKt4Y+A4d57d583LbZwjWFQrkA3tTFlcDPlzJQpYqqNBQ==",
+    "tests": [
+        {
+            "id": "test-7",
+            "result": "pass",
+            "run_id": 1391
+        }
+    ],
+    "v": 1,
+    "version": "0.1.1"
+}
