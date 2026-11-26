@@ -1,0 +1,23 @@
+{
+    "benchmarks": [],
+    "commit": "6c5da7c1d77c82afef6cbc3fae9b91089c6744b7",
+    "ecosystem": "pypi",
+    "issued_at": "2026-11-26T00:07:06Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "182ea6678cd0c74f71c7d19dbd944068b8ffd558",
+    "model_lanes": "counted",
+    "package": "fancy-flow-py",
+    "paid_runs": 1,
+    "signature": "j5CBuKIxVoF5GxZ1Fb9AsZrqKmwlc+ZcbcJ28t9UbAcoQtaQzK5Zdn08P+VsRk8QqYtTURgoO9hZwAmqKVWTDw==",
+    "tests": [
+        {
+            "id": "test-7",
+            "result": "pass",
+            "run_id": 1391
+        }
+    ],
+    "v": 1,
+    "version": "0.30.2"
+}
