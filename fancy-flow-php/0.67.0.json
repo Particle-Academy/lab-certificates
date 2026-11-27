@@ -1,0 +1,58 @@
+{
+    "benchmarks": [],
+    "commit": "8587a7ec92697bbd8a02e280b8ee4b3999788e8e",
+    "ecosystem": "packagist",
+    "issued_at": "2026-11-27T18:21:29Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [],
+    "lab_commit": "c3d0b423793213aeeec9121afcf3fe9e60174820",
+    "model_lanes": "counted",
+    "package": "fancy-flow-php",
+    "paid_runs": 8,
+    "signature": "1CSb61KBw/JdgeM+lSCWBl4ihwm0iVNLqBHJ3E/A6+zDUajBtM/O10LXBDzVhNFSrK7dwhjVnSWUVNk0BZjgAg==",
+    "tests": [
+        {
+            "id": "test-7",
+            "result": "pass",
+            "run_id": 1407
+        },
+        {
+            "id": "test-8",
+            "result": "pass",
+            "run_id": 1408
+        },
+        {
+            "id": "test-9",
+            "result": "pass",
+            "run_id": 1442
+        },
+        {
+            "id": "test-10",
+            "result": "pass",
+            "run_id": 1443
+        },
+        {
+            "id": "test-11",
+            "result": "pass",
+            "run_id": 1446
+        },
+        {
+            "id": "test-12",
+            "result": "pass",
+            "run_id": 1447
+        },
+        {
+            "id": "test-13",
+            "result": "pass",
+            "run_id": 1448
+        },
+        {
+            "id": "test-14",
+            "result": "pass",
+            "run_id": 1449
+        }
+    ],
+    "v": 1,
+    "version": "0.67.0"
+}
