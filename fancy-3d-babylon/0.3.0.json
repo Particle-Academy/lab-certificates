@@ -1,0 +1,112 @@
+{
+    "benchmarks": [
+        "charlotte-full-kit"
+    ],
+    "commit": "27bd56703f4931a7d443f57b785e41e242951366",
+    "ecosystem": "npm",
+    "issued_at": "2026-11-28T06:18:10Z",
+    "judged": "full",
+    "key_id": "ed25519:d89aa165109da56c",
+    "known_red": [
+        {
+            "finding": "S11",
+            "result": "clean",
+            "run_id": 1535,
+            "test": "test-65"
+        }
+    ],
+    "lab_commit": "d241cb15416b91d6fcf1ec58749d445e90d064b9",
+    "model_lanes": "counted",
+    "package": "fancy-3d-babylon",
+    "paid_runs": 0,
+    "signature": "+VmEXxBKAtshB92ThT0QtEX/dv1pWk4OK2XjB8fQBRdbd2rjPHdJTKyxHNqV31oQsMKw3htJy2Zw3NtzCvJbAA==",
+    "tests": [
+        {
+            "id": "test-51",
+            "result": "pass",
+            "run_id": 1525
+        },
+        {
+            "id": "test-53",
+            "result": "pass",
+            "run_id": 1526
+        },
+        {
+            "id": "test-55",
+            "result": "pass",
+            "run_id": 1527
+        },
+        {
+            "id": "test-56",
+            "result": "pass",
+            "run_id": 1528
+        },
+        {
+            "id": "test-58",
+            "result": "pass",
+            "run_id": 1529
+        },
+        {
+            "id": "test-59",
+            "result": "pass",
+            "run_id": 1530
+        },
+        {
+            "id": "test-60",
+            "result": "pass",
+            "run_id": 1531
+        },
+        {
+            "id": "test-62",
+            "result": "pass",
+            "run_id": 1532
+        },
+        {
+            "id": "test-63",
+            "result": "pass",
+            "run_id": 1533
+        },
+        {
+            "id": "test-64",
+            "result": "pass",
+            "run_id": 1534
+        },
+        {
+            "id": "test-66",
+            "result": "pass",
+            "run_id": 1536
+        },
+        {
+            "id": "test-67",
+            "result": "pass",
+            "run_id": 1537
+        },
+        {
+            "id": "test-68",
+            "result": "pass",
+            "run_id": 1538
+        },
+        {
+            "id": "test-69",
+            "result": "pass",
+            "run_id": 1539
+        },
+        {
+            "id": "test-70",
+            "result": "pass",
+            "run_id": 1540
+        },
+        {
+            "id": "test-72",
+            "result": "pass",
+            "run_id": 1541
+        },
+        {
+            "id": "test-81",
+            "result": "pass",
+            "run_id": 1542
+        }
+    ],
+    "v": 1,
+    "version": "0.3.0"
+}
